@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^2.4.1",
+    "mock-stdin": "^0.3.0"
   },
   "dependencies": {
     "scanf": "^0.7.2"
